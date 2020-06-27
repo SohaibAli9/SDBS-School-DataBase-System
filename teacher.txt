@@ -1,0 +1,10 @@
+    1 4     Rizwan        Haq rizwan 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    2 3     Rizwan      Ullah rizzyk 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    3 3      Farah      Iqbal farah 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    4 3      Ammar     Haider ammar 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    5 3     Mumtaz      Rahim mumtaz 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    6 3     Sohail       Khan sohail 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    7 5     Muneeb       Jutt muneeb 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    8 3       Raza        Ali  raza 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+    9 3   Sikander      Mirza sikander 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
+   10 3      Awwab     Cheema awwab 25/05/2000        abc             abc     123887       Male          Degree 03111714297 25/05/2000 Faisalabad 50000 
